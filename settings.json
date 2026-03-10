@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sigmarizz111.aternos.me",
-    "port": 45899,
-    "version": ""
+    "ip": "BrosCraft_SMP.aternos.me",
+    "port": 35401,
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
@@ -28,11 +28,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a Gost, Ignore Me"
       ]
     },
     "chat-log": true,
